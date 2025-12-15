@@ -26,6 +26,7 @@ The main objective of this project is to understand how past weather information
 ## 🛠️ Technologies Used
 - Python
 - Jupyter Notebook
+- VS Code
 
 ---
 
