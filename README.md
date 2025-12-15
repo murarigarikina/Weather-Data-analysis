@@ -1,46 +1,58 @@
-# Weather Prediction using Predictive Modeling
+# Weather Data Analysis using Python
 
-This project focuses on predicting weather conditions using historical weather data and basic predictive modeling techniques.
+This project focuses on exploratory data analysis (EDA) of historical weather data
+to understand patterns, trends, and relationships between key meteorological variables.
 
-The main objective of this project is to understand how past weather information such as region, time factors, and rainfall data can be used to make future weather predictions.
+The goal of this project is to analyze past weather information such as temperature,
+precipitation, wind speed, and weather conditions to extract meaningful insights
+using data visualization and statistical analysis.
 
 ---
 
 ## 📌 Project Overview
-- Uses historical weather datasets
-- Applies data preprocessing to clean and prepare the data
-- Builds predictive models to estimate weather conditions
-- Evaluates model performance using basic metrics
+- Uses historical daily weather data
+- Performs data inspection and cleaning
+- Analyzes distributions of weather variables
+- Visualizes correlations between numerical features
+- Summarizes key insights from the data
 
 ---
 
 ## ⚙️ Workflow
-1. Data collection and loading
-2. Data cleaning and preprocessing
-3. Feature selection and preparation
-4. Model training
-5. Model evaluation and result analysis
+1. Data loading and inspection
+2. Data validation and cleaning
+3. Exploratory data analysis (EDA)
+4. Visualization of weather patterns
+5. Insight generation
 
 ---
 
 ## 🛠️ Technologies Used
 - Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
 - VS Code
 
 ---
 
-## 📊 Output
-The project produces predicted weather values based on input data and evaluates the performance of the model using standard evaluation techniques.
+## 📊 Analysis Output
+The project provides:
+- Statistical summaries of weather data
+- Distribution plots for temperature and precipitation
+- Correlation heatmap for numerical features
+- Frequency analysis of different weather conditions
 
 ---
 
 ## 🎯 Learning Outcome
-Through this project, I gained practical experience in:
+Through this project, I gained hands-on experience in:
 - Working with real-world datasets
-- Data preprocessing and preparation
-- Applying predictive models
-- Understanding the basics of weather prediction using data
+- Performing exploratory data analysis
+- Creating meaningful visualizations
+- Interpreting weather-related data patterns
 
 ---
 
